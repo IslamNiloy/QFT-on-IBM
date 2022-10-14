@@ -1,1 +1,1 @@
-# Performance-Evaluation-of-Quantum-Fourier-Transform-on-IBM-Quantum-Device-and-Factoring-from-Period-
+# Performance-Evaluation-of-Quantum-Fourier-Transform-on-IBM-Quantum-Device-and-Factoring-from-Period-finding
