@@ -17,9 +17,9 @@ git clone https://github.com/IslamNiloy/QFT-on-IBM/
 pip install qiskit
  ```
 ### 3. Open the Jupyter Notebook:
-    ```bash
+```bash
     jupyter notebook
-    ```
+ ```
 
 ## Usage
 
